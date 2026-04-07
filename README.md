@@ -190,8 +190,8 @@ Prefix dict has been built successfully.
 
 ```bash
 # 创建 conda 环境
-conda create -n tokenlized_xy python=3.10
-conda activate tokenlized_xy
+conda create -n tokenized_xy python=3.10
+conda activate tokenized_xy
 
 # 安装依赖
 pip install jieba rich textual

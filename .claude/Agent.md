@@ -27,7 +27,7 @@
 
 ## 开发环境
 
-- **Conda环境**：`tokenlized_xy`
+- **Conda环境**：`tokenized_xy`
 - 所有开发工作必须在此conda环境下进行
 
 ## 项目结构
